@@ -9,7 +9,6 @@ version: 2
 name: Sanket Parik
 title: Cloud Engineer
 email: snktparik@gmail.com
-website: https://snktparik.github.io/about-me/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -31,12 +30,10 @@ linkedin_username: snktparik
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: website
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+  url: https://snktparik.github.io/about-me/
+
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
