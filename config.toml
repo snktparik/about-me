@@ -8,9 +8,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
-
 [params]
     author = "Sanket Parik"
     description = "A website that highlights my personal and professional skills"
@@ -21,16 +18,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
     [params.profile]
         enable = true
         name = "Sanket Parik"
         tagline = "DevOps Engineer"
         avatar = "sanket.png"
-
-
-
-
 
 
 
@@ -45,10 +37,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         icon = "fas fa-globe"
         url = "https://snktparik.github.io/about-me/"
         text = "https://snktparik.github.io/about-me/"
-
-
-
-
 
 
 
@@ -90,10 +78,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
-
-
     [params.education]
         enable = true
 
@@ -101,10 +85,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         degree = "B.Sc. Computer Science"
         university = "Barkatullah Vishwavidyalaya, Bhopal"
         dates = "2014 - 2017"
-
-
-
-
 
 
 
@@ -133,9 +113,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
-
     [params.interests]
         enable = false
 
@@ -145,17 +122,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
-
-
     [params.summary]
         enable = true
         text = "A highly-driven and innovative IT professional with a proven expertise in automation. Proficient in multiple DevOps tools and techniques and knowledgeable in infrastructure automation and configuration management."
-
-
-
-
 
 
 
@@ -196,14 +165,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
-
-
-
-
-
-
     [params.projects]
         enable = false
         [[params.projects.list]]
@@ -211,13 +172,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         meta = "#"
         tagline = "#"
         
-
-
-
-
-
-
-
 
 
 
@@ -233,13 +187,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "#"
         details = "#"
-
-
-
-
-
-
-
 
 
     [params.social]
