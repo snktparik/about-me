@@ -167,7 +167,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Software Engineer-1"
         dates = "Jan 2024 - Present"
         company = "Fidelity Information Services (FIS)"
-        details = "Build automation CI/CD using Github Actions, Terraform, Ansible & AWX, Docker, Openshift & Kubernetes"
+        details = "Build automation CI/CD using Github Actions, Terraform, Ansible & AWX, Docker, Kubernetes"
         [[params.experience.list.items]]
         details = "Architect and deploy AWX in EKS using CI/CD best practice. as an Ansible Tower opensource alternative which help FIS to save on license cost."
         [[params.experience.list.items]]
