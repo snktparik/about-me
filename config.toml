@@ -110,17 +110,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.awards]
-        enable = false
+        enable = true
 
         [[params.awards.list]]
-        name = "#"
-        body = "#"
-        date = "#"
-
-
-
-
-
+        name = "RedHat Certified System Administrator (RHCSA)"
+        body = "RedHat"
+        date = "Nov 2017"
 
 
 
@@ -156,7 +151,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "DevOps engineer with more than 5 years of experience in designing, implementing, and managing complex infrastructures. Proficient in multiple DevOps tools and techniques and knowledgeable in infrastructure automation and configuration management."
+        text = "A highly-driven and innovative IT professional with a proven expertise in automation. Proficient in multiple DevOps tools and techniques and knowledgeable in infrastructure automation and configuration management."
 
 
 
@@ -172,28 +167,31 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Software Engineer-1"
         dates = "Jan 2024 - Present"
         company = "Fidelity Information Services (FIS)"
-        details = "#"
+        details = "Build automation CI/CD using Github Actions, Terraform, Ansible & AWX, Docker, Openshift & Kubernetes"
         [[params.experience.list.items]]
-        details = "#"
+        details = "Architect and deploy AWX in EKS using CI/CD best practice. as an Ansible Tower opensource alternative which help FIS to save on license cost."
+        [[params.experience.list.items]]
+        details = "Delivered a POC project to integrate AWX with terraform cloud and automatically generate dynamic ansible inventory files from a terrafrom state files. POC helps us to build an end-to-end automated pipeline for deployment & configuration. of public cloud resource. "
 
         [[params.experience.list]]
         title = "Software Engineer-1"
         dates = "Aug 2020 - Dec 2023"
         company = "Worldpay, Inc."
-        details = "#"
+        details = "As Software Engineer, I was primarily focused on Infrastructure automation/ Integration."
         [[params.experience.list.items]]
-        details = "#"
+        details = "Delivered a project to replace Worldpay’s existing deployment of vcenter servers with a ServiceNow fronted Ansible and terraform solution."
+        [[params.experience.list.items]]
+        details = "Contribute to a team responcible of development of an IaaS solution enabling users to request automatically fulfilled resources and services requests through a ServiceNow catalogue using Ansible Tower, Ansible, Python, PowerShell and API calls. This solution provides both an easy-to-use automation framework and a method for the business to cross-charge, enforce accountability and reduce delivery times"
 
         [[params.experience.list]]
         title = "Jr. Technical Administrator"
         dates = "Jun 2018 - May 2020"
         company = "Vista IT Solutions Private Limited"
-        details = "I used my technical knowlege in my role as a jr. Technical Administrator to provide technical support to users in an efficient and accurate manner."
+        details = "I used my technical knowlege in my role as a Technical Administrator to provide technical support to users in an efficient and accurate manner."
         [[params.experience.list.items]]
         details = "Preparing development workstations for developers"
         [[params.experience.list.items]]
-        details = "#"
-
+        details = "Troubleshooting issues to identify root causes accurately."
 
 
 
