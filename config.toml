@@ -1,0 +1,257 @@
+# Page settings
+
+baseURL = "https://snktparik.github.io/about-me/"
+languageCode = "en"
+title = "Sanket Parik"
+theme = "site-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+
+
+
+
+
+[params]
+    author = "Sanket Parik"
+    description = "A website that highlights my personal and professional skills"
+
+
+    primaryColor = "#FF8D33"
+    textPrimaryColor = "#292929"
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "Sanket Parik"
+        tagline = "DevOps Engineer"
+        avatar = "sanket.png"
+
+
+
+
+
+
+
+    [params.contact]
+        enable = true
+        location = "India"
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:snktparik@gmail.com"
+        text = "snktparik@gmail.com"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "https://snktparik.github.io/about-me/"
+        text = "https://snktparik.github.io/about-me/"
+
+
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Technical"
+        [[params.skills.list.items]]
+        details = "Git"
+        [[params.skills.list.items]]
+        details = "AWS"
+        [[params.skills.list.items]]
+        details = "Ansible"
+        [[params.skills.list.items]]
+        details = "Terraform"
+        [[params.skills.list.items]]
+        details = "Kubernetes"
+        [[params.skills.list.items]]
+        details = "Docker"
+        [[params.skills.list.items]]
+        details = "CI/CD Pipeline"
+        [[params.skills.list.items]]
+        details = "AWX"
+        [[params.skills.list.items]]
+        details = "Redhat AAP"
+
+        [[params.skills.list]]
+        title = "Professional"
+        [[params.skills.list.items]]
+        details = "Effective communication"
+        [[params.skills.list.items]]
+        details = "Team player"
+        [[params.skills.list.items]]
+        details = "Strong problem solver"
+        [[params.skills.list.items]]
+        details = "Good time management"
+
+
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "B.Sc. Computer Science"
+        university = "Barkatullah Vishwavidyalaya, Bhopal"
+        dates = "2014 - 2017"
+
+
+
+
+
+
+
+
+    [params.awards]
+        enable = false
+
+        [[params.awards.list]]
+        name = "#"
+        body = "#"
+        date = "#"
+
+
+
+
+
+
+
+
+    [params.languages]
+        enable = true
+
+        [[params.languages.list]]
+        name = "Hindi"
+        level = "Native"
+        [[params.languages.list]]
+        name = "English"
+        level = "Professional"
+
+
+
+
+
+
+
+
+    [params.interests]
+        enable = false
+
+        [[params.interests.list]]
+        name = "#"
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "DevOps engineer with more than 5 years of experience in designing, implementing, and managing complex infrastructures. Proficient in multiple DevOps tools and techniques and knowledgeable in infrastructure automation and configuration management."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Software Engineer-1"
+        dates = "Jan 2024 - Present"
+        company = "Fidelity Information Services (FIS)"
+        details = "#"
+        [[params.experience.list.items]]
+        details = "#"
+
+        [[params.experience.list]]
+        title = "Software Engineer-1"
+        dates = "Aug 2020 - Dec 2023"
+        company = "Worldpay, Inc."
+        details = "#"
+        [[params.experience.list.items]]
+        details = "#"
+
+        [[params.experience.list]]
+        title = "Jr. Technical Administrator"
+        dates = "Jun 2018 - May 2020"
+        company = "Vista IT Solutions Private Limited"
+        details = "I used my technical knowlege in my role as a jr. Technical Administrator to provide technical support to users in an efficient and accurate manner."
+        [[params.experience.list.items]]
+        details = "Preparing development workstations for developers"
+        [[params.experience.list.items]]
+        details = "#"
+
+
+
+
+
+
+
+
+
+
+
+
+
+    [params.projects]
+        enable = false
+        [[params.projects.list]]
+        title = "#"
+        meta = "#"
+        tagline = "#"
+        
+
+
+
+
+
+
+
+
+
+
+    [params.information]
+        enable = false
+        [[params.information.list]]
+        title = "#"
+        [[params.information.list.items]]
+        details = "#"
+        [[params.information.list.items]]
+        details = "#"
+
+        [[params.information.list]]
+        title = "#"
+        details = "#"
+
+
+
+
+
+
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "https://github.com/snktparik"
+        title = "snktparik"
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "https://in.linkedin.com/in/snktparik"
+        title = "snktparik"
